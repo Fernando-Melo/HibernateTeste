@@ -1,2 +1,13 @@
+com\test\tests\CategoriaDeleteIdTest.class
 com\test\hibernate\Categoria.class
 com\test\tests\CategoriaTest.class
+com\test\tests\CategoriaFindAllTest.class
+com\test\tests\ProdutoSaveTest.class
+com\test\tests\ProdutoFindByIdTest.class
+com\test\connection\ConnectionFactory.class
+com\test\hibernate\Produto.class
+com\test\tests\CategoriaFindbyIdTest.class
+dao\ProdutoDao.class
+com\test\tests\ProdutoFindAllTest.class
+com\test\tests\ProdutoUpdateTest.class
+dao\CategoriaDao.class

@@ -1,2 +1,13 @@
 C:\Users\4User\eclipse-workspace\HibernateTest\src\main\java\com\test\tests\CategoriaTest.java
 C:\Users\4User\eclipse-workspace\HibernateTest\src\main\java\com\test\hibernate\Categoria.java
+C:\Users\4User\eclipse-workspace\HibernateTest\src\main\java\com\test\tests\ProdutoUpdateTest.java
+C:\Users\4User\eclipse-workspace\HibernateTest\src\main\java\dao\CategoriaDao.java
+C:\Users\4User\eclipse-workspace\HibernateTest\src\main\java\dao\ProdutoDao.java
+C:\Users\4User\eclipse-workspace\HibernateTest\src\main\java\com\test\connection\ConnectionFactory.java
+C:\Users\4User\eclipse-workspace\HibernateTest\src\main\java\com\test\tests\CategoriaFindAllTest.java
+C:\Users\4User\eclipse-workspace\HibernateTest\src\main\java\com\test\tests\ProdutoFindByIdTest.java
+C:\Users\4User\eclipse-workspace\HibernateTest\src\main\java\com\test\tests\ProdutoSaveTest.java
+C:\Users\4User\eclipse-workspace\HibernateTest\src\main\java\com\test\tests\ProdutoFindAllTest.java
+C:\Users\4User\eclipse-workspace\HibernateTest\src\main\java\com\test\hibernate\Produto.java
+C:\Users\4User\eclipse-workspace\HibernateTest\src\main\java\com\test\tests\CategoriaDeleteIdTest.java
+C:\Users\4User\eclipse-workspace\HibernateTest\src\main\java\com\test\tests\CategoriaFindbyIdTest.java
